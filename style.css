@@ -1,0 +1,21 @@
+.head{
+  background-color: black;
+  padding: 5px
+}
+.h2{
+  background-color: blue;
+  padding: 8px
+}
+table{
+  background-color: gold
+}
+.bnn{
+  padding: 0px;
+  border: 2px solid black;
+  margin: 2px
+}
+.footer{
+  display: block;
+  background-color: black;
+  padding: 5px;
+}

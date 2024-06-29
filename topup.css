@@ -1,0 +1,16 @@
+h1{
+  background-color: gold;
+  padding: 5
+}
+button{
+  background-color: crimson;
+}
+p{
+  color: gold
+}
+.b{
+  width: 42%;
+  display: inline-block;
+  border-radius: 40px;
+  margin: 1rem 0;
+}
