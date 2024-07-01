@@ -1,16 +1,22 @@
+.head{
+  background-color: black
+}
 h1{
-  background-color: gold;
+  background-color: red;
   padding: 5
 }
+button:hover{
+  background-color: palevioletred;
+}
 button{
-  background-color: crimson;
+  background-color: yellow
 }
 p{
-  color: gold
+  color: red
 }
 .b{
-  width: 42%;
+  width: 95%;
   display: inline-block;
-  border-radius: 40px;
+  border-radius: 50px;
   margin: 1rem 0;
 }
