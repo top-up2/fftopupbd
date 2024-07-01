@@ -19,3 +19,11 @@ table{
   background-color: black;
   padding: 5px;
 }
+.app{
+  padding: 1px;
+  border: 1px solid white;
+  display: <display-inside>
+}
+.apk{
+  text-decoration-color: white
+}
