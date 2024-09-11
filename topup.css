@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head{
+  background-color: black
+}
+h1{
+  padding: 5;
+  font-size: 50px
+}
+button:hover{
+  background-color: palevioletred;
+}
+button{
+  background: transparent;
+  padding: 25px 60px
+}
+.p{
+  color: black
+}
+button:hover{
+  display: block;
+  background: blue;
+  margin: auto;
+  position: absolute;
+  transition: .3s;
+}
+button:hover::after{
+  width: 100%
+}
+button a{
+  text-decoration: none;
+}
+.b1{
+  position: absolute;
+  top: 20%;
+  right: 53%
+}
+.b2{
+  position: absolute;
+  top: 20%;
+  left: 50% 
+}
+.b3{
+  position: absolute;
+  top: 28%;
+  right: 53% 
+}
+.b4{
+  position: absolute;
+  top: 28%;
+  left: 50% 
+}
+.b5{
+  position: absolute;
+  top: 44%;
+  left: 37% ;
+  padding: 25px 45px
+}
+.b7{
+  position: absolute;
+  top: 36%;
+  right: 25.5%;
+  padding: 25px 80px
+}
+.b6{
+  position: absolute;
+  top: 36%;
+  left: 22.5%;
+  padding: 25px 85px
+}
+.video{
+  position: absolute;
+  top: 55%;
+  left: 9%
+}
+footer{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 100%;
+  padding: 0;
+  margin: 0
+}
+.ft{
+  width: 75%;
+  position: relative;
+  left: 11%;
+  font-size: 20px
+} 
